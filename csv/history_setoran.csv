@@ -1,0 +1,30 @@
+tanggal/waktu,username,jenis,nama,berat,uang,poin,status
+05 December 2024 22:14,iqbal,organik,Kotoran Ternak,4.0,12000,40,succeed
+05 December 2024 22:14,iqbal,organik,Kulit Telur,3.0,7500,30,succeed
+05 December 2024 22:14,iqbal,organik,Buah Busuk,5.0,10000,50,succeed
+05 December 2024 22:15,iqbal,anorganik,Tembaga,6.0,36000,60,succeed
+05 December 2024 22:15,iqbal,anorganik,Alumunium,5.0,45000,50,succeed
+05 December 2024 22:15,iqbal,anorganik,Besi,5.0,20000,50,succeed
+05 December 2024 22:16,dimas,organik,Buah Busuk,4.0,8000,40,succeed
+05 December 2024 22:16,dimas,organik,Sayur Busuk,2.0,4000,20,succeed
+05 December 2024 22:16,dimas,organik,Daun,5.0,15000,50,succeed
+05 December 2024 22:16,dimas,anorganik,Besi,2.0,8000,20,succeed
+05 December 2024 22:17,dimas,anorganik,Ember Plastik ,3.0,9000,30,succeed
+05 December 2024 22:17,andre,organik,Kulit Telur,2.0,5000,20,succeed
+05 December 2024 22:17,andre,organik,Tempurung Kelapa,6.0,18000,60,succeed
+05 December 2024 22:17,andre,anorganik,Baja,3.0,9000,30,succeed
+05 December 2024 22:17,andre,anorganik,Buku Tulis ,6.0,12000,60,succeed
+05 December 2024 22:18,arya,organik,Daun,4.0,12000,40,succeed
+05 December 2024 22:18,arya,organik,Tempurung Kelapa,7.0,21000,70,succeed
+05 December 2024 22:18,arya,anorganik,Aki Bekas,4.0,30000,40,succeed
+05 December 2024 22:18,arya,anorganik,Kaca,2.0,3000,20,succeed
+06 December 2024 08:49,iqbal,organik,Daun,2.0,6000,20,succeed
+07 December 2024 16:14,dimas,anorganik,Ember Plastik ,3.0,9000,15,succeed
+07 December 2024 16:26,dimas,organik,Daun,10.0,30000,50,succeed
+08 December 2024 22:06,iqbal,organik,Sayur Busuk,2.0,4000,10,succeed
+08 December 2024 22:06,iqbal,anorganik,Alumunium,1.0,9000,5,succeed
+08 December 2024 22:19,arya,organik,sayur busuk,3.0,6000,15,succeed
+08 December 2024 22:19,arya,anorganik,kaca,7.0,17500,35,succeed
+08 December 2024 22:19,arya,anorganik,baja,2.0,6000,10,succeed
+08 December 2024 22:33,arya,organik,tempurung kelapa,10.0,30000,50,succeed
+09 December 2024 09:06,andre,organik,daun,10.0,30000,50,checking
